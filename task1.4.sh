@@ -1,4 +1,6 @@
-merge all files into file.txt
+#! /bin/bash
+
+#merge all files into file.txt
 paste -d'  ' <(sed 's/\s$//' test.txt) <(sed 's/\s$//' temp2.txt) <(sed 's/\s$//' temp3.txt) > file.txt
 
 
