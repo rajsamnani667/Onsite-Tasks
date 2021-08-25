@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # getting Id and phone no. to compare
 while read a1 a2 a3 a4
 do
