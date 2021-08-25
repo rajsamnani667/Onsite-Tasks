@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # to order file6.txt
 while read c1 c2 
 do
