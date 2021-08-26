@@ -1,0 +1,9 @@
+
+1.) Run DesktopServer.sh
+2.) Run MobileServer.sh
+In both user input is taken. You have to give the input of WEB ROOT DIRECTORY and SERVER NAME.
+3.) Run DAproxy.sh
+It install DAproxy in your system
+4.) Run desktop.loadbalance.local.sh
+5.)Run mobile.loadbalance.local.sh
+In both user input is taken. You have to give your local IP address.
