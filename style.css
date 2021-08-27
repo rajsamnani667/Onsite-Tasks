@@ -1,0 +1,43 @@
+.contain {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+#capt {
+    width: 170px;
+    height: 72px;
+    font-size: 37px;
+    padding: 5px;
+    letter-spacing: 1px;
+    float: left;
+    border-radius: 5px 0 0 5px;
+}
+#refresh img {
+    margin-top: 20px;
+    cursor: pointer;
+}
+#textinput {
+    width: 170px;
+    height: 70px;
+    font-size: 37px;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.contain button{
+    padding: 8px 20px;
+    height: 35px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 25px;
+    transition: 5s;
+}
+.contain button:hover {
+    background-color: #976216;
+}
+
+
+
+
